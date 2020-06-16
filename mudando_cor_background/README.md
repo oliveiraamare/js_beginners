@@ -2,8 +2,4 @@ Projeto simples que muda o background da página sempre que o botão é pression
 
 Utiiza: JavaScript e CSS.
 
-Github:
-
-Host:
-
-
+Host: https://oliveiraamare.github.io/mudando_cor_background/
