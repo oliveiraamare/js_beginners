@@ -1,0 +1,11 @@
+button {
+  margin: 17em;
+  width: 30%;
+}
+
+.btn-outline-info{
+  background-color: rgb(79, 151, 223);
+  border-color: #000;
+  color:#FFF;
+  font-size: 20px;
+}
