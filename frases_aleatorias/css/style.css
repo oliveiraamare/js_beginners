@@ -1,0 +1,27 @@
+body {
+  background: #B09E99;
+}
+
+.container{
+  height: 100%;
+  background: rgba(255, 255, 255, 0.5);
+  padding: 5em;
+}
+
+#autor {
+  color: #64b6ac;
+}
+
+#btn {
+  color: white;
+  background: #64B6AC;
+  border-color: #64B6AC;
+  cursor: pointer;
+  font-size: 1.5rem;
+  padding: 0.5rem 1rem
+}
+#btn:hover {
+  background: #B09E99 !important;
+  border-color: #B09E99 !important;
+  color: #333;
+}
