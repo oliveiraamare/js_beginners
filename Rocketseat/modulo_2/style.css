@@ -1,0 +1,29 @@
+body {
+  align-items:center;
+  justify-content:center;
+}
+
+.bloco {
+  border: 1px solid #c3c3c3; 
+  display: block;
+  height: 200px;
+  margin-top: 40px;
+  width: 500px;
+}
+
+#quadrado {
+  display: flex;
+  flex-direction: row;
+  margin: 30px;
+}
+
+#btnQuadrado {
+  height: 3em;
+  margin-left: 180px;
+  margin-top: 20px;
+  width: 10em;
+}
+
+#nome {
+  margin-top: 40px;
+}
